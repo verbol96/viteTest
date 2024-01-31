@@ -1,0 +1,14 @@
+.containerClassName{
+    position: relative !important;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 3px;
+}
+
+.cropAreaClassName{
+    border: 1px dotted rgb(0, 0, 0) !important;
+    color: rgba(255, 255, 255, 0.7)!important;
+}
